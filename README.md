@@ -1,5 +1,5 @@
 <h1>Bakery - Responsive Website with Animations</h1>
-<p> I built responsive website with animation for a restaurant.</p>
+<p> I built responsive website with animation for a bakery.</p>
 
 <img src="https://github.com/aniribe/Animated-bakery-web-site/blob/master/images/Bakery.JPG">
 
